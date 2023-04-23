@@ -1,11 +1,17 @@
-<script setup>
-import gra from './components/gra.vue'
-import strona2 from './components/strona2.vue'
-</script>
-
 <template>
-<gra/>
+  <div id="app">
+    <main class="flexbox">
+
+      <gra></gra>
+      
+    </main>
+  </div>
 </template>
+
+
+<script setup>
+import gra from './components/gra.vue';
+</script>
 
 <style scoped>
 
