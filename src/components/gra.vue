@@ -5,11 +5,11 @@ import ball from './ball.vue';
 
 <template>
 <div class="container">    
-    <board id="board-0" class="box">
-        <ball draggable="true" id="ball-0">0</ball>
+    <board id="board-0" class="empty">
+
     </board>
-    <board id="board-1" class="box">
-        <ball draggable="true" id="ball-1">1</ball>
+    <board id="board-1" class="empty">
+
     </board>
     <board id="board-2" class="box">
         <ball draggable="true" id="ball-2">2</ball>
@@ -20,17 +20,17 @@ import ball from './ball.vue';
     <board id="board-4" class="box">
         <ball draggable="true" id="ball-4">4</ball>
     </board>
-    <board id="board-5" class="box">
-        <ball draggable="true" id="ball-5">5</ball>
+    <board id="board-5" class="empty">
+
     </board>
-    <board id="board-6" class="box">
-        <ball draggable="true" id="ball-6">6</ball>
+    <board id="board-6" class="empty">
+
     </board>
-    <board id="board-7" class="box">
-        <ball draggable="true" id="ball-7">7</ball>
+    <board id="board-7" class="empty">
+    
     </board>
-    <board id="board-8" class="box">
-        <ball draggable="true" id="ball-8">8</ball>
+    <board id="board-8" class="empty">
+    
     </board>
     <board id="board-9" class="box">
         <ball draggable="true" id="ball-9">9</ball>
@@ -41,11 +41,11 @@ import ball from './ball.vue';
     <board id="board-11" class="box">
         <ball draggable="true" id="ball-11">11</ball>
     </board>
-    <board id="board-12" class="box">
-        <ball draggable="true" id="ball-12">12</ball>
+    <board id="board-12" class="empty">
+    
     </board>
-    <board id="board-13" class="box">
-        <ball draggable="true" id="ball-13">13</ball>
+    <board id="board-13" class="empty">
+    
     </board>
     <board id="board-14" class="box">
         <ball draggable="true" id="ball-14">14</ball>
@@ -110,11 +110,11 @@ import ball from './ball.vue';
     <board id="board-34" class="box">
         <ball draggable="true" id="ball-34">34</ball>
     </board>
-    <board id="board-35" class="box">
-        <ball draggable="true" id="ball-35">35</ball>
+    <board id="board-35" class="empty">
+    
     </board>
-    <board id="board-36" class="box">
-        <ball draggable="true" id="ball-36">36</ball>
+    <board id="board-36" class="empty">
+    
     </board>
     <board id="board-37" class="box">
         <ball draggable="true" id="ball-37">37</ball>
@@ -125,17 +125,17 @@ import ball from './ball.vue';
     <board id="board-39" class="box">
         <ball draggable="true" id="ball-39">39</ball>
     </board>
-    <board id="board-40" class="box">
-        <ball draggable="true" id="ball-40">40</ball>
+    <board id="board-40" class="empty">
+    
     </board>
-    <board id="board-41" class="box">
-        <ball draggable="true" id="ball-41">41</ball>
+    <board id="board-41" class="empty">
+    
     </board>
-    <board id="board-42" class="box">
-        <ball draggable="true" id="ball-42">42</ball>
+    <board id="board-42" class="empty">
+    
     </board>
-    <board id="board-43" class="box">
-        <ball draggable="true" id="ball-43">43</ball>
+    <board id="board-43" class="empty">
+    
     </board>
     <board id="board-44" class="box">
         <ball draggable="true" id="ball-44">44</ball>
@@ -146,11 +146,11 @@ import ball from './ball.vue';
     <board id="board-46" class="box">
         <ball draggable="true" id="ball-46">46</ball>
     </board>
-    <board id="board-47" class="box">
-        <ball draggable="true" id="ball-47">47</ball>
+    <board id="board-47" class="empty">
+    
     </board>
-    <board id="board-48" class="box">
-        <ball draggable="true" id="ball-48">48</ball>
+    <board id="board-48" class="empty">
+    
     </board>
 </div>
 
